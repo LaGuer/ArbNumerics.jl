@@ -17,6 +17,22 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
+    "location": "libarb_differences/#",
+    "page": "LibArb Differences",
+    "title": "LibArb Differences",
+    "category": "page",
+    "text": ""
+},
+
+{
+    "location": "libarb_differences/#ArbNumerics-and-LibArb-1",
+    "page": "LibArb Differences",
+    "title": "ArbNumerics and LibArb",
+    "category": "section",
+    "text": ""
+},
+
+{
     "location": "references/#",
     "page": "References",
     "title": "References",
