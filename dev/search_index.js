@@ -17,6 +17,126 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
+    "location": "mathfunctions/#",
+    "page": "Math Functions",
+    "title": "Math Functions",
+    "category": "page",
+    "text": ""
+},
+
+{
+    "location": "mathfunctions/#ArbNumerics:-mathematical-functions-1",
+    "page": "Math Functions",
+    "title": "ArbNumerics: mathematical functions",
+    "category": "section",
+    "text": ""
+},
+
+{
+    "location": "mathfunctions/#arithmetic-functions-1",
+    "page": "Math Functions",
+    "title": "arithmetic functions",
+    "category": "section",
+    "text": "+,-, *, /\nsquare, cube, sqrt, cbrt, hypot\npow(x,i), root(x,i) where i is an integer > 0\nfactorial, doublefactorial, risingfactorial\nbinomial"
+},
+
+{
+    "location": "mathfunctions/#elementary-functions-1",
+    "page": "Math Functions",
+    "title": "elementary functions",
+    "category": "section",
+    "text": "exp, expm1, log, log1p\nsin, cos, tan, csc, sec, cot\nasin, acos, atan, atan(y,x)\nsinh, cosh, tanh, csch, sech, coth\nasinh, acosh, atanh"
+},
+
+{
+    "location": "mathfunctions/#gamma-functions-1",
+    "page": "Math Functions",
+    "title": "gamma functions",
+    "category": "section",
+    "text": "gamma, lgamma\nrgamma, digamma"
+},
+
+{
+    "location": "mathfunctions/#error-functions-1",
+    "page": "Math Functions",
+    "title": "error functions",
+    "category": "section",
+    "text": "erf, erfc, erfi"
+},
+
+{
+    "location": "mathfunctions/#Bessel-functions-1",
+    "page": "Math Functions",
+    "title": "Bessel functions",
+    "category": "section",
+    "text": "besselj, besselj0, besselj1\nbessely, bessely0, bessely1\nbesseli, besselk"
+},
+
+{
+    "location": "mathfunctions/#Airy-functions-1",
+    "page": "Math Functions",
+    "title": "Airy functions",
+    "category": "section",
+    "text": "airyai, airyaiprime\nairybi, airybiprime"
+},
+
+{
+    "location": "mathfunctions/#arithmetic-geometric-mean-1",
+    "page": "Math Functions",
+    "title": "arithmetic-geometric mean",
+    "category": "section",
+    "text": "agm, agm1"
+},
+
+{
+    "location": "mathfunctions/#elliptic-functions-1",
+    "page": "Math Functions",
+    "title": "elliptic functions",
+    "category": "section",
+    "text": "elliptice, elliptick\nellipticp, ellipticpi\nellipticzeta, ellipticsigma"
+},
+
+{
+    "location": "mathfunctions/#other-special-functions-1",
+    "page": "Math Functions",
+    "title": "other special functions",
+    "category": "section",
+    "text": "ei, si, ci\nshi, chi\nzeta, eta, xi    # Reimann\nlambertw"
+},
+
+{
+    "location": "mathfunctions/#ArbNumerics:-interval-support-1",
+    "page": "Math Functions",
+    "title": "ArbNumerics: interval support",
+    "category": "section",
+    "text": ""
+},
+
+{
+    "location": "mathfunctions/#parts-1",
+    "page": "Math Functions",
+    "title": "parts",
+    "category": "section",
+    "text": "midpoint, radius\nupperbound, lowerbound\nupperbound_abs, lowerbound_abs"
+},
+
+{
+    "location": "mathfunctions/#construction-1",
+    "page": "Math Functions",
+    "title": "construction",
+    "category": "section",
+    "text": "setreal(midpoint, radius)\nsetinterval(lobound, hibound)"
+},
+
+{
+    "location": "mathfunctions/#retrieval-1",
+    "page": "Math Functions",
+    "title": "retrieval",
+    "category": "section",
+    "text": "midpoint, radius = ball(x::ArbReal)\nlobound, hibound = interval(x::ArbReal)"
+},
+
+{
     "location": "libarb_differences/#",
     "page": "LibArb Differences",
     "title": "LibArb Differences",
