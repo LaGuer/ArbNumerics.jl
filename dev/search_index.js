@@ -17,6 +17,22 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
+    "location": "settingvalues/#",
+    "page": "Setting Values",
+    "title": "Setting Values",
+    "category": "page",
+    "text": ""
+},
+
+{
+    "location": "settingvalues/#Setting-Values-1",
+    "page": "Setting Values",
+    "title": "Setting Values",
+    "category": "section",
+    "text": "To set a floating point value with 100 bits of precisionjulia> two = ArbFloat(2, bits=100)\n2.0\njulia> sqrt2 = sqrt(two)\n1.41421356237309504880168872421To set a floating point value with 30 digits precisionjulia> two = ArbFloat(2, digits=30)\n2.0\njulia> sqrt2 = sqrt(two)\n1.41421356237309504880168872421To set a real valued interval with 100 bits of precisiontwo = ArbReal(2, bits=100)\nsqrt2 = sqrt(two)To set a real valued interval with 30 digits precisiontwo = ArbReal(2, digits=30)\nsqrt2 = sqrt(two)"
+},
+
+{
     "location": "mathfunctions/#",
     "page": "Math Functions",
     "title": "Math Functions",
@@ -25,9 +41,9 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "mathfunctions/#mathematical-functions-1",
+    "location": "mathfunctions/#functions-1",
     "page": "Math Functions",
-    "title": "mathematical functions",
+    "title": "functions",
     "category": "section",
     "text": ""
 },
