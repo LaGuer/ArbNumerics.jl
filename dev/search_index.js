@@ -41,14 +41,6 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "mathfunctions/#functions-1",
-    "page": "Math Functions",
-    "title": "functions",
-    "category": "section",
-    "text": ""
-},
-
-{
     "location": "mathfunctions/#arithmetic-functions-1",
     "page": "Math Functions",
     "title": "arithmetic functions",
@@ -121,32 +113,32 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "mathfunctions/#interval-support-1",
-    "page": "Math Functions",
-    "title": "interval support",
-    "category": "section",
+    "location": "intervalfunctions/#",
+    "page": "Interval Functions",
+    "title": "Interval Functions",
+    "category": "page",
     "text": ""
 },
 
 {
-    "location": "mathfunctions/#parts-1",
-    "page": "Math Functions",
+    "location": "intervalfunctions/#parts-1",
+    "page": "Interval Functions",
     "title": "parts",
     "category": "section",
     "text": "midpoint, radius\nupperbound, lowerbound\nupperbound_abs, lowerbound_abs"
 },
 
 {
-    "location": "mathfunctions/#construction-1",
-    "page": "Math Functions",
+    "location": "intervalfunctions/#construction-1",
+    "page": "Interval Functions",
     "title": "construction",
     "category": "section",
     "text": "setball(midpoint, radius)\nsetinterval(lobound, hibound)"
 },
 
 {
-    "location": "mathfunctions/#retrieval-1",
-    "page": "Math Functions",
+    "location": "intervalfunctions/#retrieval-1",
+    "page": "Interval Functions",
     "title": "retrieval",
     "category": "section",
     "text": "midpoint, radius = ball(x::ArbReal)\nlobound, hibound = interval(x::ArbReal)"
