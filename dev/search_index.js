@@ -25,9 +25,9 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "mathfunctions/#ArbNumerics:-mathematical-functions-1",
+    "location": "mathfunctions/#mathematical-functions-1",
     "page": "Math Functions",
-    "title": "ArbNumerics: mathematical functions",
+    "title": "mathematical functions",
     "category": "section",
     "text": ""
 },
@@ -45,7 +45,7 @@ var documenterSearchIndex = {"docs": [
     "page": "Math Functions",
     "title": "elementary functions",
     "category": "section",
-    "text": "exp, expm1, log, log1p\nsin, cos, tan, csc, sec, cot\nasin, acos, atan, atan(y,x)\nsinh, cosh, tanh, csch, sech, coth\nasinh, acosh, atanh"
+    "text": "exp, expm1\nlog, log1p, log2, log10\nsin, cos, tan, csc, sec, cot\nasin, acos, atan, atan(y,x)\nsinh, cosh, tanh, csch, sech, coth\nasinh, acosh, atanh"
 },
 
 {
@@ -105,9 +105,9 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "mathfunctions/#ArbNumerics:-interval-support-1",
+    "location": "mathfunctions/#interval-support-1",
     "page": "Math Functions",
-    "title": "ArbNumerics: interval support",
+    "title": "interval support",
     "category": "section",
     "text": ""
 },
@@ -125,7 +125,7 @@ var documenterSearchIndex = {"docs": [
     "page": "Math Functions",
     "title": "construction",
     "category": "section",
-    "text": "setreal(midpoint, radius)\nsetinterval(lobound, hibound)"
+    "text": "setball(midpoint, radius)\nsetinterval(lobound, hibound)"
 },
 
 {
